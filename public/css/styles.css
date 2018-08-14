@@ -1,8 +1,9 @@
 h1{
     color: red;
+    text-align: center;
 }
 #homepage{
-    color: blue;
+    text-align: center;
 }
 .para{
     font-size: 30px;
@@ -12,6 +13,11 @@ h1{
     margin-bottom: 20px;
 }
 img{
-    width: 200px;
+    width: 250px;
     height: auto;
+}
+.col-sm-4{
+    margin: 10px 10px 10px 10px;
+    border: 1px solid black;
+    padding: 5px 5px 5px 5px;
 }

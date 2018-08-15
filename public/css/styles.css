@@ -1,5 +1,6 @@
 body{
     background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
 }
 h1{
     color: red;
@@ -13,7 +14,8 @@ h1{
 }
 #main{
     margin-top: 60px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
 }
 img{
     width: 250px;
